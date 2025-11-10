@@ -46,3 +46,12 @@ Este repositório contém uma suíte completa de **testes automatizados end-to-e
 
 ## 📂 Estrutura do Projeto
 
+---
+
+## 🚀 Como executar o projeto
+
+### 🔧 1. Clone o repositório
+```bash
+git clone https://github.com/phsmottanerd/cypress-devfinance-automation.git
+
+
